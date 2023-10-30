@@ -5,7 +5,7 @@ Instructions for use:
 
 1- Run the program and follow the on-screen instructions to add or recover passwords.
 
-2- The "passwords.dat" file will be created in the same folder where the program is located, and this is where your encrypted passwords will be stored.
+2- The "senhas.dat" file will be created in the same folder where the program is located, and this is where your encrypted passwords will be stored.
 
 
 Português - BR 
@@ -25,4 +25,4 @@ Instruções de uso:
 
 1- Запустите программу и следуйте инструкциям на экране, чтобы добавить или восстановить пароли.
 
-2- Файл "passwords.dat" будет создан в той же папке, где находится программа, и именно здесь будут храниться ваши зашифрованные пароли.
+2- Файл "senhas.dat" будет создан в той же папке, где находится программа, и именно здесь будут храниться ваши зашифрованные пароли.
